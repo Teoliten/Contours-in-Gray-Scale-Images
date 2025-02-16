@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c35c03b4d653724da2b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtContours",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtContours::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtContours-Debug-d2e71e57a2cf03383a88.json",
+					"name" : "QtContours",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtContours_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtContours_autogen-Debug-0d7d2382b92520dd35ca.json",
+					"name" : "QtContours_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtContours_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtContours_autogen_timestamp_deps-Debug-6cfafe42d4c0751c64f7.json",
+					"name" : "QtContours_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/teo/Desktop/gray-scale-v4/build/Desktop_Qt_6_8_2-Debug",
+		"source" : "/home/teo/Desktop/gray-scale-v4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

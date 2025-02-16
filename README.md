@@ -1,1 +1,0 @@
-# Contours-in-Gray-Scale-Images
