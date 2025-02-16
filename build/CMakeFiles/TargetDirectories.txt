@@ -1,0 +1,9 @@
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/QtContours.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/edit_cache.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/rebuild_cache.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/list_install_components.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/install.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/install/local.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/install/strip.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/QtContours_autogen_timestamp_deps.dir
+/home/screwrose/QTProjects/grayscaleQt_1/QtContours/build/CMakeFiles/QtContours_autogen.dir
